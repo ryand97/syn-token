@@ -1,0 +1,2 @@
+# syn-token
+Synchronization token
